@@ -1,7 +1,8 @@
 # Practica1_HolaMundo
 <h3>MATERIA : Estructura de Datos</h3>
 
-Damos inicio a nuestra primera practica con manejo de leguaje en HTML para definir el contenido de la pagina web, incluyendo CSS para dar un diseño para mejor comodidad y visual, finalizando con JavaScript permite crear contenido interactivo.
+Damos inicio a nuestra primera practica con manejo de leguaje en HTML para definir el contenido de la pagina web, incluyendo   JavaScript permite crear contenido interactivo.  Mas adelante utilizaremos CSS
+pero en este proyecto solo utilizaremos dos 
 
 <table align="center">
 <tr><td align="top" width="33%">
