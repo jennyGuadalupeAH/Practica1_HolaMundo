@@ -1,18 +1,31 @@
-*{
-padding:0;
-margin:0;
-text-aling:center;
+*{* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+     
 }
 
- body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            text-align: center;
-        }
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-color: #3498db
+}
 
 .button {
-            padding: 10px;
-            margin: 5px;
-            font-size: 16px;
-            cursor: pointer;
-        }
+    color: #fff;
+    padding: 30px 60px;
+    margin: 50px;
+    font-size: 24px;
+    background-color: #3498db;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px; /* Añadido: bordes redondeados */
+    transition: background-color 0.4s; 
+}
+
+.button:hover {
+    background-color: #2980b9; 
+}
+
+
